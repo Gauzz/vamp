@@ -8,7 +8,7 @@ Compiled Humanoid Interpreter Program is a c++ program that converts the input s
 # Register
 Before starting open libs folder and add a,b,c reg files to your pc by double clicking on them.
 
-# create a program
+# Create a program
 
 The vamp is designed for making malicious programs like windows hanging program ,delete virus e.t.c.
 however,the scope is limited because of limited conditions.
@@ -21,7 +21,7 @@ steps for making program:
 5. (") can be prited by using (#") 
 6. A simple sentance could be used to create a virus.
 
-#Examples
+# Examples
 
 open multiple windows simultaneously
 open cd continuously
@@ -30,6 +30,6 @@ e.t.c.
 
 The above examples when executed will also generate a .vbs or .bat file.
 
-#Toolkit
+# Toolkit
 
 The repository also consist of toolkit to create many other miscellanous .vbs & .bat program.
